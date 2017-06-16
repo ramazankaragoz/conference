@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="conference-dao" />
+        <module name="conference-entities" />
+        <module name="conference-entity" />
+        <module name="conference-service" />
+        <module name="conference-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="conference-dao" target="1.8" />
+      <module name="conference-entities" target="1.8" />
+      <module name="conference-entity" target="1.8" />
+      <module name="conference-service" target="1.8" />
+      <module name="conference-web" target="1.8" />
+      <module name="ramazan-conference" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

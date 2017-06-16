@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/conference-dao/conference-dao.iml" filepath="$PROJECT_DIR$/conference-dao/conference-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conference-entities/conference-entities.iml" filepath="$PROJECT_DIR$/conference-entities/conference-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conference-entity/conference-entity.iml" filepath="$PROJECT_DIR$/conference-entity/conference-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conference-service/conference-service.iml" filepath="$PROJECT_DIR$/conference-service/conference-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conference-web/conference-web.iml" filepath="$PROJECT_DIR$/conference-web/conference-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ramazan-conference.iml" filepath="$PROJECT_DIR$/ramazan-conference.iml" />
+    </modules>
+  </component>
+</project>

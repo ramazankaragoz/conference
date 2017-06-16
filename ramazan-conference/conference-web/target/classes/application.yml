@@ -1,0 +1,18 @@
+server:
+  port: 9292
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/conference?useSSL=false
+    username: root
+    password: root
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        current_session_context_class: org.springframework.orm.hibernate4.SpringSessionContext
+        dialect: org.hibernate.dialect.MySQL5Dialect
+    hibernate:
+      ddl-auto: create
+      naming:
+        strategy: org.hibernate.cfg.ImprovedNamingStrategy
