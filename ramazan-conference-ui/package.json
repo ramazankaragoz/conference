@@ -1,0 +1,41 @@
+{
+  "name": "ramazan-conference-ui",
+  "version": "1.0.0",
+  "description": "conference ui api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramazan Karagöz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "bootstrap": "^4.0.0-alpha.6",
+    "express": "^4.13.4",
+    "react-bootstrap": "^0.30.3",
+    "react-bootstrap-table": "^2.5.2",
+    "react-bootstrap-webpack": "^1.0.4",
+    "react-router": "^2.0.0",
+    "react-select": "^1.0.0-rc.1",
+    "react-transition-group": "^1.2.0",
+    "reactstrap": "^4.6.2",
+    "react-rnd": "^5.0.6",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-addons-css-transition-group": "^15.5.2",
+    "react-addons-transition-group": "^15.5.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.23.1",
+    "foundation-sites": "^6.2.0",
+    "jquery": "^2.2.1",
+    "script-loader": "^0.6.1",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.13"
+  }
+}
